@@ -2,7 +2,12 @@
 layout: page
 title: About
 ---
+Heejin Oh(오희진)
+Network Data Science Lab undergraduate research student
+Sangmyung University, software.
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+CONTACT
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+phone: (+82)10-3910-4864
+e-mail: oheejin0202@gmail.com
+
